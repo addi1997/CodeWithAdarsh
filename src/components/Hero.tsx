@@ -38,7 +38,7 @@ const Hero = () => {
               React Native Developer
             </p>
             <p className="text-lg md:text-xl text-muted-foreground/80">
-              2+ Years of Professional Experience
+              4+ Years of Professional Experience
             </p>
           </div>
 
